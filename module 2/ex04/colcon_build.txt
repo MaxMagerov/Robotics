@@ -1,0 +1,48 @@
+Starting >>> examples_rclcpp_async_client
+Starting >>> examples_rclcpp_cbg_executor
+Starting >>> examples_rclcpp_minimal_action_client
+Starting >>> examples_rclcpp_minimal_action_server
+Starting >>> examples_rclcpp_minimal_client
+Starting >>> examples_rclcpp_minimal_composition
+Starting >>> examples_rclcpp_minimal_publisher
+Starting >>> examples_rclcpp_minimal_service
+Finished <<< examples_rclcpp_async_client [0.44s]
+Starting >>> examples_rclcpp_minimal_subscriber
+Finished <<< examples_rclcpp_minimal_client [0.44s]
+Finished <<< examples_rclcpp_minimal_action_server [0.48s]
+Finished <<< examples_rclcpp_minimal_action_client [0.51s]
+Finished <<< examples_rclcpp_cbg_executor [0.54s]
+Finished <<< examples_rclcpp_minimal_publisher [0.52s]
+Finished <<< examples_rclcpp_minimal_service [0.53s]
+Starting >>> examples_rclcpp_minimal_timer
+Starting >>> examples_rclcpp_multithreaded_executor
+Starting >>> examples_rclcpp_wait_set
+Starting >>> examples_rclpy_executors
+Starting >>> examples_rclpy_guard_conditions
+Starting >>> examples_rclpy_minimal_action_client
+Finished <<< examples_rclcpp_minimal_composition [0.65s]
+Starting >>> examples_rclpy_minimal_action_server
+Finished <<< examples_rclcpp_minimal_subscriber [2.82s]
+Starting >>> examples_rclpy_minimal_client
+Finished <<< examples_rclcpp_minimal_timer [2.70s]
+Finished <<< examples_rclcpp_multithreaded_executor [2.72s]
+Finished <<< examples_rclcpp_wait_set [2.74s]
+Starting >>> examples_rclpy_minimal_publisher
+Starting >>> examples_rclpy_minimal_service
+Starting >>> examples_rclpy_minimal_subscriber
+Finished <<< examples_rclpy_minimal_action_client [6.44s]
+Starting >>> examples_rclpy_pointcloud_publisher
+Finished <<< examples_rclpy_executors [6.50s]
+Finished <<< examples_rclpy_guard_conditions [6.51s]
+Finished <<< examples_rclpy_minimal_action_server [6.46s]
+Starting >>> launch_testing_examples
+Starting >>> my_ros_package
+Finished <<< examples_rclpy_minimal_subscriber [5.92s]
+Finished <<< examples_rclpy_minimal_service [5.95s]
+Finished <<< examples_rclpy_minimal_client [6.07s]
+Finished <<< examples_rclpy_minimal_publisher [5.99s]
+Finished <<< examples_rclpy_pointcloud_publisher [3.62s]
+Finished <<< my_ros_package [3.60s]
+Finished <<< launch_testing_examples [3.64s]
+
+Summary: 23 packages finished [11.5s]
